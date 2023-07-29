@@ -1,10 +1,8 @@
+
 # js
 
 This repository contains a collection of 8 simple JavaScript projects built using HTML, CSS, Bootstrap, and JavaScript.
-
 Each project is designed to showcase different programming concepts and provide interactive experiences.
-
-
 
 @.JavaScript Web Applications Collection
   This repository contains a collection of JavaScript web applications that showcase various interactive and useful features. Each application is designed to be easily integrated into any web project or used as standalone demos. Below, you'll find a brief description of each application along with instructions on how to use them.
@@ -40,12 +38,19 @@ To use any of these JavaScript applications, simply download the repository or c
 Contributions
 Contributions to this repository are welcome! If you have any improvements, bug fixes, or new applications to add, please submit a pull request, and we'll be happy to review it.
 
-License
-This collection of JavaScript web applications is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to expand the descriptions further, add installation instructions, or any other details you find relevant for the users. The above content serves as a starting point for your readme file for the JavaScript web applications collection.
 
 hosted link: " https://kavin-js.netlify.app "
+
+![Screenshot (35)](https://github.com/mkkavin/js/assets/112418691/30ab0bb5-65fb-42ca-a2ef-dcb8bd19a125)
+![Screenshot (36)](https://github.com/mkkavin/js/assets/112418691/32c0fc5a-007f-465a-9b7f-92ea2853f234)
+![Screenshot (34)](https://github.com/mkkavin/js/assets/112418691/a5f0e30f-7c4e-42a4-8584-5cd18387115a)
+![Screenshot (33)](https://github.com/mkkavin/js/assets/112418691/5f8049c7-f025-4c43-bcb2-d77e415b9987)
+![Screenshot (32)](https://github.com/mkkavin/js/assets/112418691/369a3882-786e-4a20-9f45-56a7eaf9d4c0)
+![Screenshot (31)](https://github.com/mkkavin/js/assets/112418691/8ef1581a-e1aa-4cd4-a3f2-89ac0485f05f)
+![Screenshot (30)](https://github.com/mkkavin/js/assets/112418691/19c20236-7b14-4568-9380-b9e8f577206f)
+![Screenshot (29)](https://github.com/mkkavin/js/assets/112418691/97f99129-caeb-4c74-b154-6bf6a7b754a2)
 
 
 
