@@ -1,6 +1,3 @@
-![Screenshot (35)](https://github.com/mkkavin/js/assets/112418691/52b38f60-c3e4-4d9d-839e-421450d71f06)
-
-
 # js
 
 This repository contains a collection of 8 simple JavaScript projects built using HTML, CSS, Bootstrap, and JavaScript.
